@@ -1,0 +1,96 @@
+{
+    "URL": "http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/Login.aspx",
+    "Order": [
+        {
+            "product":"MyMoney",
+            "qty":"",
+            "custname":"guru",
+            "street":"abcd",
+            "city":"Delhi",
+            "zip":"234332",
+            "cr_num":"1234321234",
+            "exp_date":"12/22",
+            "alt":"Quantity must be greater than zero."
+        },
+
+        {
+            "product":"FamilyAlbum",
+            "qty":"2",
+            "custname":"",
+            "street":"abcd",
+            "city":"Delhi",
+            "zip":"234332",
+            "cr_num":"1234321234",
+            "exp_date":"12/22",
+            "alt":"Field 'Customer name' cannot be empty."
+        },
+        {
+            "product":"ScreenSaver",
+            "qty":"3",
+            "custname":"guru",
+            "street":"",
+            "city":"Delhi",
+            "zip":"234332",
+            "cr_num":"1234321234",
+            "exp_date":"12/22",
+            "alt":"Field 'Street' cannot be empty."
+        },
+        {
+            "product":"MyMoney",
+            "qty":"4",
+            "custname":"guru",
+            "street":"abcd",
+            "city":"",
+            "zip":"234332",
+            "cr_num":"1234321234",
+            "exp_date":"12/22",
+            "alt":"Field 'City' cannot be empty."
+        },
+        {
+            "product":"FamilyAlbum",
+            "qty":"4",
+            "custname":"guru",
+            "street":"abcd",
+            "city":"Delhi",
+            "zip":"",
+            "cr_num":"1234321234",
+            "exp_date":"12/22",
+            "alt":"Field 'Zip' cannot be empty."
+        },
+        {
+            "product":"ScreenSaver",
+            "qty":"4",
+            "custname":"guru",
+            "street":"abcd",
+            "city":"Delhi",
+            "zip":"234332",
+            "cr_num":"",
+            "exp_date":"12/22",
+            "alt":"Field 'Card Nr' cannot be empty."
+        },
+        {
+            "product":"MyMoney",
+            "qty":"4",
+            "custname":"guru",
+            "street":"abcd",
+            "city":"Delhi",
+            "zip":"234332",
+            "cr_num":"1234321234",
+            "exp_date":"",
+            "alt":"Field 'Expire date' cannot be empty."
+        },
+        {
+            "product":"FamilyAlbum",
+            "qty":"2",
+            "custname":"guru",
+            "street":"abcd",
+            "city":"Delhi",
+            "zip":"234332",
+            "cr_num":"1234321234",
+            "exp_date":"12/22",
+            "alt":"New order has been successfully added."
+        }
+
+            ]
+
+}
